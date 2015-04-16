@@ -1,3 +1,10 @@
+#### MOVED TO BITBUCKET vvvvvvvvvvvvvvvvvvv  
+
+https://bitbucket.org/Unity-Technologies/versioncontrolplugins
+ 
+#### MOVED TO BITBUCKET ^^^^^^^^^^^^^^^^^^^^
+
+
 #### About
 
 This is the source code of the builtin version control plugins that are shipped with [Unity](http://www.unity3d.com).
